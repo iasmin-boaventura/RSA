@@ -1,0 +1,1 @@
+print(f'a frase ')
